@@ -1,0 +1,14 @@
+{
+    "name": "jinzak/hexlet-php",
+    "description": "slick pack",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "TurboMilfer",
+            "email": "gerb200@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
