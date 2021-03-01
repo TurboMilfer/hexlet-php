@@ -11,7 +11,8 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "tightenco/collect": "^8.19"
+        "tightenco/collect": "^8.19",
+        "funct/funct": "^1.5"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5"
