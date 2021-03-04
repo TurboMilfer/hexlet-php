@@ -1,5 +1,10 @@
 {
     "name": "jinzak/hexlet-php",
+    "autoload": {
+        "files": [
+            "/home/jinzak/hexlet-php/src/Runner.php"
+        ]
+    },
     "description": "slick pack",
     "type": "library",
     "license": "MIT",
